@@ -1,0 +1,7 @@
+﻿[*.{cs,vb}]
+
+# IDE0040: Adicionar modificadores de acessibilidade
+dotnet_style_require_accessibility_modifiers = never
+
+# IDE0055: Corrigir a formatação
+dotnet_diagnostic.IDE0055.severity = none
